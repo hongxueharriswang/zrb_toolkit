@@ -1,0 +1,6 @@
+zones:
+  - {id: root, name: Root}
+operations:
+  - {id: grade:view, app_name: university, name: view_grade}
+roles:
+  - {id: faculty_reader, zone_id: root, name: FacultyReader, base_permissions: [grade:view]}
