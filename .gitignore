@@ -1,6 +1,11 @@
 __pycache__/
 *.pyc
-venv/
+*.pyo
+*.pyd
+
+.venv_zrb/
+.vscode/
+
 .DS_Store
 *.egg-info/
 dist/
