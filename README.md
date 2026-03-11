@@ -10,23 +10,23 @@ It models **zones**, **roles**, **operations**, and **users**, supports **intraâ
 
 ## Table of Contents
 
-*   \#features
-*   \#architecture
-*   \#installation
-*   \#quick-start
-*   \#configuration-yaml
-*   \#web-integration
-    *   \#flask
-    *   \#django
-*   \#constraints
-*   \#storage-backends
-*   \#cli
-*   \#admin-api--minimal-ui
-*   \#testing
-*   \#documentation
-*   \#roadmap
-*   \#contributing
-*   \#license
+*   features
+*   architecture
+*   installation
+*   quick-start
+*   configuration-yaml
+*   web-integration
+    *   flask
+    *   django
+*   constraints
+*   storage-backends
+*   cli
+*   admin-api--minimal-ui
+*   testing
+*   documentation
+*   roadmap
+*   contributing
+*   license
 
 ***
 
