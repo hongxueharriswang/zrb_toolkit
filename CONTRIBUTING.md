@@ -77,7 +77,7 @@ Look for issues labeled **good first issue** or **help wanted**. If unsure, open
 ### 2) Clone & Create a Virtual Environment
 
 ```bash
-git clone https://github.com/harriswatau/zrb_toolkit.git
+git clone https://github.com/hongxueharriswang/zrb_toolkit.git
 cd zrb_toolkit
 python -m venv .venv
 source .venv/bin/activate  # Windows: .venv\Scripts\activate
