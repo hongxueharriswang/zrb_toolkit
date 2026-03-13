@@ -5,7 +5,8 @@ __pycache__/
 
 .venv_zrb/
 .vscode/
-.ignore
+.gitignore
+.github/
 
 .DS_Store
 *.egg-info/
